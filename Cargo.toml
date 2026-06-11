@@ -1,6 +1,9 @@
 [package]
 name = "count-min-sketch"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Count Min Sketch"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/count-min-sketch"
+edition = "2021"
 
 [dependencies]
